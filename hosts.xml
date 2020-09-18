@@ -430,7 +430,7 @@
 <host id="turboimagehost">
 	<domain>turboimagehost.com</domain>
 	<path-pattern>p/.+</path-pattern>
-	<search-pattern>ID: uImage</search-pattern>
+	<search-pattern>CLASS: uImage</search-pattern>
 </host>
 
 <host id="x-art">
