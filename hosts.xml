@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root id="by-rhadamanthe" version="2018-06-14" spec="1.0">
+	
+<host id="imagespice">
+	<domain>imgspice.com</domain>
+	<path-pattern>.+</path-pattern>
+	<search-pattern>CLASS: pic</search-pattern>
+</host>
 
 <!--  Verified -->
 <host id="4chan">
